@@ -53,7 +53,7 @@ Uses custom anti-bot protection that requires a cookie: https://github.com/kypri
 
 * [invidious.himiko.cloud](https://invidious.himiko.cloud) 🇧🇬
 
-* [tube.incog.host](https://tube.incog.host) 🇱🇺
+* [tube.incognet.io](https://tube.incognet.io) 🇱🇺
 
 * [invidious.tinfoil-hat.net](https://invidious.tinfoil-hat.net) 🇩🇪
 
